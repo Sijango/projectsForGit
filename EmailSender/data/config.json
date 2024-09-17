@@ -1,0 +1,15 @@
+{
+  "smtp": {
+    "server": "smtp.office365.com",
+    "port": 587
+  },
+  "email_from": {
+    "username": "your_email@your_custom_domain.com"
+  },
+  "msg": {
+    "subject": "Тема вашего письма",
+    "body": "Добрый день, {fio}!\n\nПросим ознакомиться с нашим новым продуктом.\n\nС уважением, \nКоманда IIoT.Istok!"
+  },
+  "path_to_file_excel": "data/Перечень для рассылки.xlsx",
+  "path_to_file_power_point": "data/Презентация.pptx"
+}

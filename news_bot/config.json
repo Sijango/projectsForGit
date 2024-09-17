@@ -1,0 +1,95 @@
+{
+  "token": "5944557889:AAEa7g0lEPk0o",
+
+  "chats": "-10017",
+  "send_to_chat": "-10019",
+  "footer_in_message": "Название группы",
+
+  "admins": [
+    "233977524",
+    "1954412814"
+  ],
+
+  "interval": 5,
+
+  "URL": [
+    {
+      "name": "RBC",
+      "URL": [
+        "https://www.rbc.ru/neweconomy/?utm_source=topline"
+      ],
+      "status": true
+    },
+    {
+      "name": "Forklog",
+      "URL": [
+        "https://forklog.com/news"
+      ],
+      "status": true
+    },
+    {
+      "name": "Frankrg",
+      "URL": [
+        "https://frankrg.com/tag/ekonomika",
+        "https://frankrg.com/tag/mirovie-finansi",
+        "https://frankrg.com/tag/platezhi-i-perevody"
+      ],
+      "status": true
+    },
+    {
+      "name": "Forbes",
+      "URL": [
+        "https://www.forbes.ru/finansy"
+      ],
+      "status": true
+    },
+    {
+      "name": "Tass",
+      "URL": [
+        "https://tass.ru/ekonomika"
+      ],
+      "status": true
+    }
+  ],
+
+  "categories": [
+    "*"
+  ],
+
+  "img": {
+    "vision": [
+      "vision/Frame 1.jpg",
+      "vision/Frame 2.jpg",
+      "vision/Frame 3.jpg",
+      "vision/Frame 4.jpg",
+      "vision/Frame 5.jpg",
+      "vision/Frame 6.jpg",
+      "vision/Frame 7.jpg",
+      "vision/Frame 8.jpg",
+      "vision/Frame 9.jpg",
+      "vision/Frame 10.jpg",
+      "vision/Frame 11.jpg",
+      "vision/Frame 12.jpg",
+      "vision/Frame 13.jpg",
+      "vision/Frame 14.jpg",
+      "vision/Frame 15.jpg",
+      "vision/Frame 16.jpg",
+      "vision/Frame 17.jpg",
+      "vision/Frame 18.jpg",
+      "vision/Frame 19.jpg",
+      "vision/Frame 20.jpg",
+      "vision/Frame 21.jpg",
+      "vision/Frame 22.jpg",
+      "vision/Frame 23.jpg",
+      "vision/Frame 24.jpg",
+      "vision/Frame 25.jpg",
+      "vision/Frame 26.jpg",
+      "vision/Frame 27.jpg",
+      "vision/Frame 28.jpg",
+      "vision/Frame 29.jpg",
+      "vision/Frame 30.jpg",
+      "vision/Frame 31.jpg",
+      "vision/Frame 32.jpg"
+    ]
+  }
+}

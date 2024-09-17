@@ -1,0 +1,33 @@
+{
+  'BUSD':
+    {'info':
+      {'name': 'BUSD', 'coin': 'BUSD', 'remainAmount': '9500000', 'chains':
+        [
+          {'chainType': 'BSC (BEP20)', 'confirmation': '15', 'withdrawFee': '0.5', 'depositMin': '0', 'withdrawMin': '1', 'chain': 'BSC', 'chainDeposit': '1', 'chainWithdraw': '1', 'minAccuracy': '8', 'withdrawPercentageFee': '0'},
+          {'chainType': 'ERC20', 'confirmation': '6', 'withdrawFee': '3', 'depositMin': '0', 'withdrawMin': '3', 'chain': 'ETH', 'chainDeposit': '1', 'chainWithdraw': '1', 'minAccuracy': '8', 'withdrawPercentageFee': '0'}
+        ]
+      },
+     'code': 'BUSD',
+     'id': 'BUSD',
+     'name': 'BUSD',
+     'active': True,
+     'deposit': True,
+     'withdraw': True,
+     'fee': 0.5,
+     'precision': 1e-08,
+     'limits': {'amount': {'min': None, 'max': None}, 'withdraw': {'min': 1.0, 'max': None}, 'deposit': {'min': 0.0, 'max': None}},
+     'networks':
+      {'BEP20':
+        {'info':
+          {'chainType': 'BSC (BEP20)', 'confirmation': '15', 'withdrawFee': '0.5', 'depositMin': '0', 'withdrawMin': '1', 'chain': 'BSC', 'chainDeposit': '1', 'chainWithdraw': '1', 'minAccuracy': '8', 'withdrawPercentageFee': '0'},
+         'id': 'BSC',
+         'network': 'BEP20',
+         'active': True,
+         'deposit': True,
+         'withdraw': True,
+         'fee': 0.5,
+         'precision': 1e-08,
+         'limits': {'withdraw': {'min': 1.0, 'max': None}, 'deposit': {'min': 0.0, 'max': None}}
+        },
+        'ERC20': {'info': {'chainType': 'ERC20', 'confirmation': '6', 'withdrawFee': '3', 'depositMin': '0', 'withdrawMin': '3', 'chain': 'ETH', 'chainDeposit': '1', 'chainWithdraw': '1', 'minAccuracy': '8', 'withdrawPercentageFee': '0'}, 'id': 'ETH', 'network': 'ERC20', 'active': True, 'deposit': True, 'withdraw': True, 'fee': 3.0, 'precision': 1e-08, 'limits': {'withdraw': {'min': 3.0, 'max': None}, 'deposit': {'min': 0.0, 'max': None}}}
+}

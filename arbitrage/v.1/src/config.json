@@ -1,0 +1,126 @@
+{
+  "token": "5562820909:AAGp6GzNGnM",
+  "chat_id": "-1584",
+  "message_id": "2",
+  "client": "Test-bot NEW FORMULA",
+  "contact": "@test",
+
+  "comBEP20": 0.3,
+  "comETH": 5,
+  "percent": 0.3,
+
+  "network": "BEP20",
+  "coin_to_transfer": "USDT",
+
+  "fees": {
+    "bsc_gas_fee": 0.004,
+    "bsc_gas_fee_usdt": 300,
+    "buy_sell_commission": 0.00004
+  },
+
+  "added_pairs": [
+    "AGLDUSDT",
+    "MATICUSDT",
+    "STGUSDT",
+    "SHIBUSDT",
+    "WLDUSDT",
+    "ZRXUSDT",
+    "OMGUSDT",
+    "HOTUSDT",
+    "ANKRUSDT",
+    "SUSHIUSDT",
+    "WBTCUSDT",
+    "TUSDT",
+    "MANAUSDT",
+    "ACHUSDT",
+    "BELUSDT",
+    "MKRUSDT",
+    "WOOUSDT",
+    "BLURUSDT",
+    "RENUSDT",
+    "PAXGUSDT",
+    "PEPEUSDT",
+    "CHZUSDT",
+    "JASMYUSDT",
+    "FLOKIUSDT",
+    "SANDUSDT",
+    "UMAUSDT",
+    "AVAUSDT",
+    "GALUSDT",
+    "ENJUSDT",
+    "GRTUSDT",
+    "NEXOUSDT",
+    "ENSUSDT",
+    "MASKUSDT",
+    "UNIUSDT",
+    "AAVEUSDT",
+    "PERPUSDT",
+    "YFIUSDT",
+    "BICOUSDT",
+    "PEOPLEUSDT",
+    "AXSUSDT",
+    "COMPUSDT",
+    "SLPUSDT",
+    "HFTUSDT",
+    "IDUSDT",
+    "1INCHUSDT",
+    "FTMUSDT",
+    "ARKMUSDT",
+    "PENDLEUSDT",
+    "SNXUSDT",
+    "ETHUSDT",
+    "LRCUSDT",
+    "BNTUSDT",
+    "USTCUSDT",
+    "IMXUSDT",
+    "USDCUSDT",
+    "SPELLUSDT",
+    "FXSUSDT",
+    "INJUSDT",
+    "CRVUSDT",
+    "AGIXUSDT",
+    "RPLUSDT",
+    "QNTUSDT",
+    "LDOUSDT",
+    "LINKUSDT",
+    "RNDRUSDT",
+    "GALAUSDT",
+    "BATUSDT",
+    "APEUSDT",
+    "SSVUSDT",
+    "BUSDUSDT"
+  ],
+
+  "pair_fees": {
+    "TWT": 0.3,
+    "C98": 0.4,
+    "BNB": 0.0006,
+    "HOOK": 0.06,
+    "MATIC": 0.15,
+    "ETH": 0.0004,
+    "USDT": 0.5,
+    "AVA": 0.2,
+    "CAKE": 0.016,
+    "GMT": 1,
+    "SHIB": 7,
+    "BEL": 0.2,
+    "FLOKI": 2.617,
+    "ID": 1
+  },
+
+  "binance_exchange_data": {
+    "api_key": "WU3",
+    "secret_key": "mPLH7c",
+    "option": {
+      "defaultType": "spot"
+    }
+  },
+
+  "bybit_exchange_data": {
+    "api_key": "gEaV331lb",
+    "secret_key": "0tqUtRtbfnAZ",
+    "option": {
+      "defaultType": "spot"
+    }
+  }
+}
